@@ -24,6 +24,3 @@
 
 ### Poznámka
 Run - configuration - Emulate terminal in output console
-
-nebo přes cmd
-C:\Users\fiser\AppData\Local\Programs\Python\Python39\python.exe C:\Users\fiser\Documents\=DEV=\PycharmProjects\OAOpava_PVA2\Advent\AdvancedTree\advancedTree.py
