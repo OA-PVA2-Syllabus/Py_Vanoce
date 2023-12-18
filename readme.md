@@ -10,7 +10,7 @@
 
 ## Dokumentace
 * Pro každý projekt nastavit Run - configuration - Emulate terminal in output console
-* Instalace python balíčků, termcolor a colorama
+* Instalace python balíčků: termcolor a colorama
 
 
 
