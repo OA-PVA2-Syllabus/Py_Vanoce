@@ -1,12 +1,12 @@
 # Obsah 
 ## Vánoční hrátky
 
-* SignSimpleTree
-* SignAdvancedTree
-* IconChristmasTree
-* Fractal
-* Card
-* CardWithStar
+1. SignSimpleTree
+2. SignAdvancedTree
+3. IconChristmasTree
+4. Fractal
+5. Card
+6. CardWithStar
 
 **Nutná instalace**
 * termcolor

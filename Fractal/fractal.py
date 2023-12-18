@@ -1,5 +1,10 @@
-n = 50
 from turtle import *
+
+# TODO:
+#   Zkuste upravit jednotlivé parametry a po změně každého spustit program
+
+n = 50
+
 speed("fastest")
 left(90)
 forward(3*n)

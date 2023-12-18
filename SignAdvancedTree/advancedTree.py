@@ -5,6 +5,8 @@ import sys, os
 from colorama import init
 from termcolor import colored
 
+# TODO:
+#   Rozšiřte seznam použitých barev pro osvětlení
 
 def clear():
     if sys.platform == 'win32':  # if windows
