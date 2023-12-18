@@ -8,9 +8,9 @@
 5. Card
 6. CardWithStar
 
-**Nutná instalace**
-* termcolor
-* colorama
+## Dokumentace
+* Pro každý projekt nastavit Run - configuration - Emulate terminal in output console
+* Instalace python balíčků, termcolor a colorama
 
 
 
